@@ -1,0 +1,76 @@
+/***** Définition des fontes et des tailles *******************************************************/
+h1 { font-family:'Source Sans Pro' ;font-size:40px;color: white;} 
+h2 { font-family:'caviar_dreamsregular' ;font-size:40px;color:white ;}
+h3 { font-family:'caviar_dreamsregular' ;	font-size:30px;
+											color:white ;
+											margin-left:-10px ;
+											margin-right:-5px ;
+											padding-left:10px ;
+											padding-top:5px;
+											padding-bottom:5px ;
+											background-color:rgb(17,31,66);}
+h4 { font-family:'caviar_dreamsregular' ;color:white ;background-color:rgb(17,31,66);}
+
+
+h5 { font-family:'Source Sans Pro' ;color:white;font-size:50px;}
+
+p { font-family:'Source Sans Pro' ; font-size:30px ; color:rgb(17,31,66) ;font-weight: 900; }
+
+
+
+
+body { background-color:rgb(17,31,66);  margin-top:20px; margin-left:20px;margin-right:20px;}
+
+.partie_1 {	border:32px solid rgba(255,255,255,0.2) ;
+			border-radius:30px ;
+			background-image:url(../images/banner-904887_1280.jpg); 
+			background-attachment:fixed;  
+			background-repeat:no-repeat;
+			background-size: 100%;  }
+			
+.jumbotron {border-radius:30px ;
+			padding-bottom:100px;
+			padding-top:100px;
+			margin-bottom:1000px ; }
+			
+			
+#head_description { 
+	overflow:hidden;}
+
+#head_image {
+	width:100% ;
+	overflow:hidden;}
+
+#maps {
+	width:100% ;
+	margin-bottom:10px ;
+	border:10px solid white ;
+}
+
+main { background-color:white ;}
+
+iframe {
+	margin-left:10px ;
+	margin-top:-20px ;
+    width:100%;
+	overflow:hidden; }
+
+.footer_liens {
+	margin:auto ;
+	margin-bottom:30px ;
+	padding-left:20px ; }
+
+.b_circle {
+	margin-top:10px ;
+	padding-top:10px ; padding-left:10px ;
+	display: inline-block;
+	border:5px solid white ;
+	border-radius: 50%;
+	width:80px ;
+	height:80px; }   
+	
+.b_circle:hover { opacity:0.5 ; border:5px solid rgba(255,255,255,0.7) ; }
+
+.plume { float:left ;}
+
+
