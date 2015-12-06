@@ -19,7 +19,7 @@ p { font-family:'Source Sans Pro' ; font-size:30px ; color:rgb(17,31,66) ;font-w
 
 
 
-body { background-color:rgb(17,31,66);  margin-top:20px; margin-left:20px;margin-right:20px;}
+body { background-color:rgb(17,31,66);  margin-top:20px; margin-left:20px;margin-right:20px;overflow-y: hidden;}
 
 .partie_1 {	border:32px solid rgba(255,255,255,0.2) ;
 			border-radius:30px ;
